@@ -1,7 +1,7 @@
 package college.department;
 
 public class ITStudent {
-    String name = "Naveen";
+    String name = "Arjun";
     int rollNo = 101;
     String course = "Computer Science";
 
